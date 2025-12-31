@@ -1,0 +1,4 @@
+name: DirectPickUp
+version: '1.1'
+main: org.OZI.directPickUp.DirectPickUp
+api-version: '1.21'
